@@ -2,7 +2,7 @@
 
 ## Overview
 
-Provisions a basic multi-tier AWS environment — VPC, public subnet, security group, key pair, and EC2 instance running Apache — using Terraform.
+Provisioned a complete AWS environment using Terraform HCL-VPC with public subnet, Internet Gateway, route tables, and an EC2 instance bootstrapped with Apache via user_data. Followed standard five-file structure and extracted a reusable VPC module, demonstrating the plan/apply/destroy workflow and remote state management.
 
 ## Architecture
 
