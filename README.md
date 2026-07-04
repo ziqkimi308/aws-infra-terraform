@@ -126,8 +126,6 @@ terraform destroy
 
 ### 12. Terraform destroy (teardown)
 
-![Terraform Destroy](./screenshots/terraform_destroy.png)
-
 ![Terraform Destroy 2](./screenshots/terraform_destroy_2.png)
 
 ![EC2 Terminated](./screenshots/ec2_terminated.png)
